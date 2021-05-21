@@ -26,6 +26,8 @@
         <module>servicelog</module>
         <module>serviceneworder</module>
         <module>commonkafka</module>
+        <module>serviceusers</module>
+        <module>service-httpecommerce</module>
     </modules>
 
     <dependencies>
